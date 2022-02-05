@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PredictionModelUI/static/css/main.1091c651.css",
+    "main.js": "/PredictionModelUI/static/js/main.2a4858e5.js",
+    "static/js/787.84828907.chunk.js": "/PredictionModelUI/static/js/787.84828907.chunk.js",
+    "static/media/ai.png": "/PredictionModelUI/static/media/ai.aa60586ba1ba53762d94.png",
+    "index.html": "/PredictionModelUI/index.html",
+    "main.1091c651.css.map": "/PredictionModelUI/static/css/main.1091c651.css.map",
+    "main.2a4858e5.js.map": "/PredictionModelUI/static/js/main.2a4858e5.js.map",
+    "787.84828907.chunk.js.map": "/PredictionModelUI/static/js/787.84828907.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1091c651.css",
+    "static/js/main.2a4858e5.js"
+  ]
+}
